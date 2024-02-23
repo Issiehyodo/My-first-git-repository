@@ -1,1 +1,3 @@
 # My-first-git-repository
+I have started learning html today I know its late but gonna do it.
+Best of luck to me on this journey starting with scratch....
